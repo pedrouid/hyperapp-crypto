@@ -1,12 +1,16 @@
-import { h, app } from 'hyperapp';
+import { h, app } from 'hyperapp'; // eslint-disable-line
 
-const state = {
+const INITIAL_STATE = {
   count: 0
 };
 
 const actions = {
-  down: value => state => ({ count: state.count - value }),
-  up: value => state => ({ count: state.count + value })
+  down: () => state => {
+    return { count: state.count - 1 };
+  },
+  up: () => state => {
+    return { count: state.count + 1 };
+  }
 };
 
 const view = (state, actions) => (
@@ -19,4 +23,4 @@ const view = (state, actions) => (
   </div>
 );
 
-app(state, actions, view, document.body);
+app(INITIAL_STATE, actions, view, document.body);

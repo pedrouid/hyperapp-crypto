@@ -1,7 +1,7 @@
 {
   "name": "hyper-web-app",
   "version": "1.0.0",
-  "description": "2018 super trendy web app",
+  "description": "the most 2018 static web app",
   "main": "index.js",
   "scripts": {
     "start": "parcel src/index.html -p 3000"
