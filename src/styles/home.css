@@ -1,0 +1,106 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #222222;
+  font-family: Roboto, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+  font-size: 16px;
+  color: #ffffff;
+  overflow-y: auto;
+}
+
+.wrapper {
+  width: 100%;
+  height: 100%;
+}
+
+.content {
+  max-width: 600px;
+  height: 100%;
+  margin: 0 auto;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.column {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.coins-list {
+  width: 100%;
+}
+
+.coin {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.coin-rank {
+  width: 10%;
+}
+
+.coin-name {
+  width: 65%;
+}
+
+.coin-price {
+  width: 35%;
+}
+
+/*
+  LOADING SPINNER ANIMATION
+  by Tobias Ahlin @tobiasahlin
+
+  http://tobiasahlin.com/spinkit/
+ */
+
+.spinner {
+  width: 40px;
+  height: 40px;
+  background-color: #ffffff;
+
+  margin: 100px auto;
+  -webkit-animation: sk-rotateplane 1.2s infinite ease-in-out;
+  animation: sk-rotateplane 1.2s infinite ease-in-out;
+}
+
+@-webkit-keyframes sk-rotateplane {
+  0% {
+    -webkit-transform: perspective(120px);
+  }
+  50% {
+    -webkit-transform: perspective(120px) rotateY(180deg);
+  }
+  100% {
+    -webkit-transform: perspective(120px) rotateY(180deg) rotateX(180deg);
+  }
+}
+
+@keyframes sk-rotateplane {
+  0% {
+    transform: perspective(120px) rotateX(0deg) rotateY(0deg);
+    -webkit-transform: perspective(120px) rotateX(0deg) rotateY(0deg);
+  }
+  50% {
+    transform: perspective(120px) rotateX(-180.1deg) rotateY(0deg);
+    -webkit-transform: perspective(120px) rotateX(-180.1deg) rotateY(0deg);
+  }
+  100% {
+    transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
+    -webkit-transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
+  }
+}
