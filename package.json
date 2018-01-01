@@ -1,0 +1,19 @@
+{
+  "name": "hyper-web-app",
+  "version": "1.0.0",
+  "description": "2018 super trendy web app",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html -p 3000"
+  },
+  "author": "Pedro Gomes <pedrouid@protonmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "hyperapp": "^1.0.1",
+    "parcel-bundler": "^1.4.1"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-h-jsx": "^1.0.0",
+    "babel-preset-env": "^1.6.1"
+  }
+}
