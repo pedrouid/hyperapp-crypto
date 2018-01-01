@@ -16,7 +16,6 @@ const home = (state, actions) => {
     <div class="wrapper">
       <div class="content">
         <h1>Cryptocurrency Prices</h1>
-
         <div class="column">
           {fetching ? (
             <div class="spinner" />

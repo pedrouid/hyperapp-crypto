@@ -45,20 +45,25 @@ body {
 
 .coin {
   display: flex;
+  margin-top: 30px;
   width: 100%;
   justify-content: space-between;
 }
 
 .coin-rank {
+  width: 8%;
+}
+
+.coin-icon {
   width: 10%;
 }
 
 .coin-name {
-  width: 65%;
+  width: 58%;
 }
 
 .coin-price {
-  width: 35%;
+  width: 34%;
 }
 
 /*
