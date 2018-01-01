@@ -13,4 +13,4 @@ Cryptocurrency Icons: https://github.com/cjdowner/cryptocurrency-icons
 
 SpinKit: https://github.com/tobiasahlin/SpinKit
 
-#### Deployed with Neltlify https://github.com/netlify
+#### Deployed with Neltlify https://github.com/netlify
