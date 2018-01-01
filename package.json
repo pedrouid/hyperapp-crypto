@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "parcel src/index.html -p 3000",
-    "build": "parcel build src/index.html -d build"
+    "build": "parcel build src/index.html -d build --public-url ./"
   },
   "author": "Pedro Gomes <pedrouid@protonmail.com>",
   "license": "MIT",
