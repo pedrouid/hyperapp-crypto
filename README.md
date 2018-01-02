@@ -1,5 +1,6 @@
 # hyperapp-crypto
-The most 2018 static web app using Hyperapp.js bundled with Parcel.js to show cryptocurrency prices
+
+The most 2018 static web app using Hyperapp.js bundled with Parcel.js to show cryptocurrency prices (source: api.coinmarketcap.com)
 
 `npm start` to develop on localhost
 
