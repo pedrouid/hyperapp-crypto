@@ -61,6 +61,10 @@ const home = (state, actions) => {
             </div>
           )}
         </div>
+
+        <div class="footer">
+          <a href="https://github.com/pedrouid/hyperapp-crypto">Source Code</a>
+        </div>
       </div>
     </div>
   );
