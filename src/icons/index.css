@@ -6,6 +6,12 @@
   background-repeat: no-repeat;
 }
 
+.icon-$pac {
+  background-image: url('./svg/$pac.svg');
+}
+.icon-abt {
+  background-image: url('./svg/abt.svg');
+}
 .icon-act {
   background-image: url('./svg/act.svg');
 }
@@ -18,8 +24,17 @@
 .icon-ae {
   background-image: url('./svg/ae.svg');
 }
+.icon-agi {
+  background-image: url('./svg/agi.svg');
+}
+.icon-agrs {
+  background-image: url('./svg/agrs.svg');
+}
 .icon-aion {
   background-image: url('./svg/aion.svg');
+}
+.icon-amb {
+  background-image: url('./svg/amb.svg');
 }
 .icon-amp {
   background-image: url('./svg/amp.svg');
@@ -27,14 +42,32 @@
 .icon-ant {
   background-image: url('./svg/ant.svg');
 }
+.icon-apex {
+  background-image: url('./svg/apex.svg');
+}
+.icon-appc {
+  background-image: url('./svg/appc.svg');
+}
 .icon-ardr {
   background-image: url('./svg/ardr.svg');
 }
 .icon-ark {
   background-image: url('./svg/ark.svg');
 }
+.icon-arn {
+  background-image: url('./svg/arn.svg');
+}
+.icon-ary {
+  background-image: url('./svg/ary.svg');
+}
+.icon-ast {
+  background-image: url('./svg/ast.svg');
+}
 .icon-atm {
   background-image: url('./svg/atm.svg');
+}
+.icon-auto {
+  background-image: url('./svg/auto.svg');
 }
 .icon-bat {
   background-image: url('./svg/bat.svg');
@@ -42,8 +75,14 @@
 .icon-bay {
   background-image: url('./svg/bay.svg');
 }
+.icon-bcbc {
+  background-image: url('./svg/bcbc.svg');
+}
 .icon-bcc {
   background-image: url('./svg/bcc.svg');
+}
+.icon-bcd {
+  background-image: url('./svg/bcd.svg');
 }
 .icon-bch {
   background-image: url('./svg/bch.svg');
@@ -51,14 +90,32 @@
 .icon-bcn {
   background-image: url('./svg/bcn.svg');
 }
+.icon-bco {
+  background-image: url('./svg/bco.svg');
+}
+.icon-bcpt {
+  background-image: url('./svg/bcpt.svg');
+}
 .icon-bdl {
   background-image: url('./svg/bdl.svg');
+}
+.icon-bela {
+  background-image: url('./svg/bela.svg');
+}
+.icon-bix {
+  background-image: url('./svg/bix.svg');
 }
 .icon-blcn {
   background-image: url('./svg/blcn.svg');
 }
+.icon-blk {
+  background-image: url('./svg/blk.svg');
+}
 .icon-block {
   background-image: url('./svg/block.svg');
+}
+.icon-blz {
+  background-image: url('./svg/blz.svg');
 }
 .icon-bnb {
   background-image: url('./svg/bnb.svg');
@@ -66,17 +123,32 @@
 .icon-bnt {
   background-image: url('./svg/bnt.svg');
 }
+.icon-bnty {
+  background-image: url('./svg/bnty.svg');
+}
+.icon-bos {
+  background-image: url('./svg/bos.svg');
+}
+.icon-bpt {
+  background-image: url('./svg/bpt.svg');
+}
 .icon-bq {
   background-image: url('./svg/bq.svg');
 }
 .icon-bqx {
   background-image: url('./svg/bqx.svg');
 }
+.icon-brd {
+  background-image: url('./svg/brd.svg');
+}
 .icon-btc {
   background-image: url('./svg/btc.svg');
 }
 .icon-btcd {
   background-image: url('./svg/btcd.svg');
+}
+.icon-btcp {
+  background-image: url('./svg/btcp.svg');
 }
 .icon-btcz {
   background-image: url('./svg/btcz.svg');
@@ -93,11 +165,65 @@
 .icon-btx {
   background-image: url('./svg/btx.svg');
 }
+.icon-burst {
+  background-image: url('./svg/burst.svg');
+}
+.icon-cdn {
+  background-image: url('./svg/cdn.svg');
+}
+.icon-cdt {
+  background-image: url('./svg/cdt.svg');
+}
+.icon-cenz {
+  background-image: url('./svg/cenz.svg');
+}
+.icon-chat {
+  background-image: url('./svg/chat.svg');
+}
+.icon-chips {
+  background-image: url('./svg/chips.svg');
+}
+.icon-cix {
+  background-image: url('./svg/cix.svg');
+}
+.icon-clam {
+  background-image: url('./svg/clam.svg');
+}
+.icon-cloak {
+  background-image: url('./svg/cloak.svg');
+}
+.icon-cmt {
+  background-image: url('./svg/cmt.svg');
+}
+.icon-cnd {
+  background-image: url('./svg/cnd.svg');
+}
 .icon-cnx {
   background-image: url('./svg/cnx.svg');
 }
 .icon-cny {
   background-image: url('./svg/cny.svg');
+}
+.icon-cob {
+  background-image: url('./svg/cob.svg');
+}
+.icon-coqui {
+  background-image: url('./svg/coqui.svg');
+}
+.icon-cred {
+  background-image: url('./svg/cred.svg');
+}
+.icon-crpt {
+  background-image: url('./svg/crpt.svg');
+}
+.icon-crw {
+  background-image: url('./svg/crw.svg');
+}
+.icon-cs {
+  background-image: url('./svg/cs.svg');
+}
+.icon-ctr {
+  background-image: url('./svg/ctr.svg');
 }
 .icon-cvc {
   background-image: url('./svg/cvc.svg');
@@ -105,8 +231,14 @@
 .icon-dash {
   background-image: url('./svg/dash.svg');
 }
+.icon-dat {
+  background-image: url('./svg/dat.svg');
+}
 .icon-data {
   background-image: url('./svg/data.svg');
+}
+.icon-dbc {
+  background-image: url('./svg/dbc.svg');
 }
 .icon-dcn {
   background-image: url('./svg/dcn.svg');
@@ -114,8 +246,14 @@
 .icon-dcr {
   background-image: url('./svg/dcr.svg');
 }
+.icon-deez {
+  background-image: url('./svg/deez.svg');
+}
 .icon-dent {
   background-image: url('./svg/dent.svg');
+}
+.icon-dew {
+  background-image: url('./svg/dew.svg');
 }
 .icon-dgb {
   background-image: url('./svg/dgb.svg');
@@ -123,20 +261,53 @@
 .icon-dgd {
   background-image: url('./svg/dgd.svg');
 }
+.icon-dlt {
+  background-image: url('./svg/dlt.svg');
+}
+.icon-dnr {
+  background-image: url('./svg/dnr.svg');
+}
+.icon-dnt {
+  background-image: url('./svg/dnt.svg');
+}
 .icon-doge {
   background-image: url('./svg/doge.svg');
 }
 .icon-drgn {
   background-image: url('./svg/drgn.svg');
 }
+.icon-dta {
+  background-image: url('./svg/dta.svg');
+}
+.icon-dtr {
+  background-image: url('./svg/dtr.svg');
+}
+.icon-ebst {
+  background-image: url('./svg/ebst.svg');
+}
+.icon-eca {
+  background-image: url('./svg/eca.svg');
+}
 .icon-edg {
   background-image: url('./svg/edg.svg');
+}
+.icon-edo {
+  background-image: url('./svg/edo.svg');
 }
 .icon-edoge {
   background-image: url('./svg/edoge.svg');
 }
+.icon-ela {
+  background-image: url('./svg/ela.svg');
+}
 .icon-elf {
   background-image: url('./svg/elf.svg');
+}
+.icon-elix {
+  background-image: url('./svg/elix.svg');
+}
+.icon-ella {
+  background-image: url('./svg/ella.svg');
 }
 .icon-emc {
   background-image: url('./svg/emc.svg');
@@ -147,8 +318,17 @@
 .icon-eng {
   background-image: url('./svg/eng.svg');
 }
+.icon-enj {
+  background-image: url('./svg/enj.svg');
+}
 .icon-eos {
   background-image: url('./svg/eos.svg');
+}
+.icon-eql {
+  background-image: url('./svg/eql.svg');
+}
+.icon-equa {
+  background-image: url('./svg/equa.svg');
 }
 .icon-etc {
   background-image: url('./svg/etc.svg');
@@ -168,8 +348,14 @@
 .icon-eur {
   background-image: url('./svg/eur.svg');
 }
+.icon-evx {
+  background-image: url('./svg/evx.svg');
+}
 .icon-exmo {
   background-image: url('./svg/exmo.svg');
+}
+.icon-exp {
+  background-image: url('./svg/exp.svg');
 }
 .icon-fair {
   background-image: url('./svg/fair.svg');
@@ -179,6 +365,21 @@
 }
 .icon-fil {
   background-image: url('./svg/fil.svg');
+}
+.icon-fldc {
+  background-image: url('./svg/fldc.svg');
+}
+.icon-flo {
+  background-image: url('./svg/flo.svg');
+}
+.icon-fsn {
+  background-image: url('./svg/fsn.svg');
+}
+.icon-ftc {
+  background-image: url('./svg/ftc.svg');
+}
+.icon-fuel {
+  background-image: url('./svg/fuel.svg');
 }
 .icon-fun {
   background-image: url('./svg/fun.svg');
@@ -192,8 +393,14 @@
 .icon-gbp {
   background-image: url('./svg/gbp.svg');
 }
+.icon-gbx {
+  background-image: url('./svg/gbx.svg');
+}
 .icon-gbyte {
   background-image: url('./svg/gbyte.svg');
+}
+.icon-generic {
+  background-image: url('./svg/generic.svg');
 }
 .icon-gno {
   background-image: url('./svg/gno.svg');
@@ -201,17 +408,38 @@
 .icon-gnt {
   background-image: url('./svg/gnt.svg');
 }
+.icon-grc {
+  background-image: url('./svg/grc.svg');
+}
 .icon-grs {
   background-image: url('./svg/grs.svg');
+}
+.icon-gto {
+  background-image: url('./svg/gto.svg');
 }
 .icon-gup {
   background-image: url('./svg/gup.svg');
 }
+.icon-gvt {
+  background-image: url('./svg/gvt.svg');
+}
 .icon-gxs {
   background-image: url('./svg/gxs.svg');
 }
+.icon-hpb {
+  background-image: url('./svg/hpb.svg');
+}
 .icon-hsr {
   background-image: url('./svg/hsr.svg');
+}
+.icon-html {
+  background-image: url('./svg/html.svg');
+}
+.icon-huc {
+  background-image: url('./svg/huc.svg');
+}
+.icon-hush {
+  background-image: url('./svg/hush.svg');
 }
 .icon-icn {
   background-image: url('./svg/icn.svg');
@@ -219,11 +447,38 @@
 .icon-icx {
   background-image: url('./svg/icx.svg');
 }
+.icon-ignis {
+  background-image: url('./svg/ignis.svg');
+}
+.icon-ink {
+  background-image: url('./svg/ink.svg');
+}
+.icon-ins {
+  background-image: url('./svg/ins.svg');
+}
+.icon-ion {
+  background-image: url('./svg/ion.svg');
+}
+.icon-iop {
+  background-image: url('./svg/iop.svg');
+}
+.icon-iost {
+  background-image: url('./svg/iost.svg');
+}
+.icon-itc {
+  background-image: url('./svg/itc.svg');
+}
+.icon-jnt {
+  background-image: url('./svg/jnt.svg');
+}
 .icon-jpy {
   background-image: url('./svg/jpy.svg');
 }
 .icon-kcs {
   background-image: url('./svg/kcs.svg');
+}
+.icon-kin {
+  background-image: url('./svg/kin.svg');
 }
 .icon-kmd {
   background-image: url('./svg/kmd.svg');
@@ -233,6 +488,15 @@
 }
 .icon-krb {
   background-image: url('./svg/krb.svg');
+}
+.icon-lbc {
+  background-image: url('./svg/lbc.svg');
+}
+.icon-lend {
+  background-image: url('./svg/lend.svg');
+}
+.icon-link {
+  background-image: url('./svg/link.svg');
 }
 .icon-lkk {
   background-image: url('./svg/lkk.svg');
@@ -246,6 +510,9 @@
 .icon-ltc {
   background-image: url('./svg/ltc.svg');
 }
+.icon-lun {
+  background-image: url('./svg/lun.svg');
+}
 .icon-maid {
   background-image: url('./svg/maid.svg');
 }
@@ -258,8 +525,23 @@
 .icon-mco {
   background-image: url('./svg/mco.svg');
 }
+.icon-mda {
+  background-image: url('./svg/mda.svg');
+}
+.icon-mds {
+  background-image: url('./svg/mds.svg');
+}
+.icon-med {
+  background-image: url('./svg/med.svg');
+}
 .icon-miota {
   background-image: url('./svg/miota.svg');
+}
+.icon-mith {
+  background-image: url('./svg/mith.svg');
+}
+.icon-mkr {
+  background-image: url('./svg/mkr.svg');
 }
 .icon-mln {
   background-image: url('./svg/mln.svg');
@@ -267,8 +549,17 @@
 .icon-mnx {
   background-image: url('./svg/mnx.svg');
 }
+.icon-mnz {
+  background-image: url('./svg/mnz.svg');
+}
+.icon-mod {
+  background-image: url('./svg/mod.svg');
+}
 .icon-mona {
   background-image: url('./svg/mona.svg');
+}
+.icon-mth {
+  background-image: url('./svg/mth.svg');
 }
 .icon-mtl {
   background-image: url('./svg/mtl.svg');
@@ -276,8 +567,23 @@
 .icon-music {
   background-image: url('./svg/music.svg');
 }
+.icon-mzc {
+  background-image: url('./svg/mzc.svg');
+}
+.icon-nano {
+  background-image: url('./svg/nano.svg');
+}
+.icon-nas {
+  background-image: url('./svg/nas.svg');
+}
 .icon-nav {
   background-image: url('./svg/nav.svg');
+}
+.icon-ncash {
+  background-image: url('./svg/ncash.svg');
+}
+.icon-ndz {
+  background-image: url('./svg/ndz.svg');
 }
 .icon-nebl {
   background-image: url('./svg/nebl.svg');
@@ -285,11 +591,26 @@
 .icon-neo {
   background-image: url('./svg/neo.svg');
 }
+.icon-neos {
+  background-image: url('./svg/neos.svg');
+}
+.icon-ngc {
+  background-image: url('./svg/ngc.svg');
+}
+.icon-nio {
+  background-image: url('./svg/nio.svg');
+}
+.icon-nlc2 {
+  background-image: url('./svg/nlc2.svg');
+}
 .icon-nlg {
   background-image: url('./svg/nlg.svg');
 }
 .icon-nmc {
   background-image: url('./svg/nmc.svg');
+}
+.icon-nuls {
+  background-image: url('./svg/nuls.svg');
 }
 .icon-nxs {
   background-image: url('./svg/nxs.svg');
@@ -297,17 +618,56 @@
 .icon-nxt {
   background-image: url('./svg/nxt.svg');
 }
+.icon-oax {
+  background-image: url('./svg/oax.svg');
+}
 .icon-omg {
   background-image: url('./svg/omg.svg');
+}
+.icon-omni {
+  background-image: url('./svg/omni.svg');
+}
+.icon-ont {
+  background-image: url('./svg/ont.svg');
+}
+.icon-oot {
+  background-image: url('./svg/oot.svg');
+}
+.icon-ost {
+  background-image: url('./svg/ost.svg');
+}
+.icon-ox {
+  background-image: url('./svg/ox.svg');
 }
 .icon-part {
   background-image: url('./svg/part.svg');
 }
+.icon-pasl {
+  background-image: url('./svg/pasl.svg');
+}
 .icon-pay {
   background-image: url('./svg/pay.svg');
 }
+.icon-pink {
+  background-image: url('./svg/pink.svg');
+}
+.icon-pirl {
+  background-image: url('./svg/pirl.svg');
+}
 .icon-pivx {
   background-image: url('./svg/pivx.svg');
+}
+.icon-plr {
+  background-image: url('./svg/plr.svg');
+}
+.icon-poa {
+  background-image: url('./svg/poa.svg');
+}
+.icon-poe {
+  background-image: url('./svg/poe.svg');
+}
+.icon-poly {
+  background-image: url('./svg/poly.svg');
 }
 .icon-pot {
   background-image: url('./svg/pot.svg');
@@ -318,8 +678,14 @@
 .icon-ppc {
   background-image: url('./svg/ppc.svg');
 }
+.icon-ppp {
+  background-image: url('./svg/ppp.svg');
+}
 .icon-ppt {
   background-image: url('./svg/ppt.svg');
+}
+.icon-prl {
+  background-image: url('./svg/prl.svg');
 }
 .icon-pura {
   background-image: url('./svg/pura.svg');
@@ -330,8 +696,23 @@
 .icon-qiwi {
   background-image: url('./svg/qiwi.svg');
 }
+.icon-qlc {
+  background-image: url('./svg/qlc.svg');
+}
+.icon-qrl {
+  background-image: url('./svg/qrl.svg');
+}
+.icon-qsp {
+  background-image: url('./svg/qsp.svg');
+}
 .icon-qtum {
   background-image: url('./svg/qtum.svg');
+}
+.icon-r {
+  background-image: url('./svg/r.svg');
+}
+.icon-rads {
+  background-image: url('./svg/rads.svg');
 }
 .icon-rcn {
   background-image: url('./svg/rcn.svg');
@@ -351,17 +732,32 @@
 .icon-rhoc {
   background-image: url('./svg/rhoc.svg');
 }
+.icon-ric {
+  background-image: url('./svg/ric.svg');
+}
+.icon-rise {
+  background-image: url('./svg/rise.svg');
+}
 .icon-rlc {
   background-image: url('./svg/rlc.svg');
 }
+.icon-rpx {
+  background-image: url('./svg/rpx.svg');
+}
 .icon-rub {
   background-image: url('./svg/rub.svg');
+}
+.icon-rvn {
+  background-image: url('./svg/rvn.svg');
 }
 .icon-salt {
   background-image: url('./svg/salt.svg');
 }
 .icon-san {
   background-image: url('./svg/san.svg');
+}
+.icon-sbd {
+  background-image: url('./svg/sbd.svg');
 }
 .icon-sberbank {
   background-image: url('./svg/sberbank.svg');
@@ -372,14 +768,35 @@
 .icon-sky {
   background-image: url('./svg/sky.svg');
 }
+.icon-slr {
+  background-image: url('./svg/slr.svg');
+}
+.icon-sls {
+  background-image: url('./svg/sls.svg');
+}
 .icon-smart {
   background-image: url('./svg/smart.svg');
 }
 .icon-sngls {
   background-image: url('./svg/sngls.svg');
 }
+.icon-snm {
+  background-image: url('./svg/snm.svg');
+}
 .icon-snt {
   background-image: url('./svg/snt.svg');
+}
+.icon-spank {
+  background-image: url('./svg/spank.svg');
+}
+.icon-sphtx {
+  background-image: url('./svg/sphtx.svg');
+}
+.icon-srn {
+  background-image: url('./svg/srn.svg');
+}
+.icon-start {
+  background-image: url('./svg/start.svg');
 }
 .icon-steem {
   background-image: url('./svg/steem.svg');
@@ -387,23 +804,65 @@
 .icon-storj {
   background-image: url('./svg/storj.svg');
 }
+.icon-storm {
+  background-image: url('./svg/storm.svg');
+}
 .icon-strat {
   background-image: url('./svg/strat.svg');
 }
 .icon-sub {
   background-image: url('./svg/sub.svg');
 }
+.icon-sumo {
+  background-image: url('./svg/sumo.svg');
+}
+.icon-sys {
+  background-image: url('./svg/sys.svg');
+}
 .icon-taas {
   background-image: url('./svg/taas.svg');
+}
+.icon-tau {
+  background-image: url('./svg/tau.svg');
+}
+.icon-tel {
+  background-image: url('./svg/tel.svg');
+}
+.icon-ten {
+  background-image: url('./svg/ten.svg');
+}
+.icon-theta {
+  background-image: url('./svg/theta.svg');
+}
+.icon-tix {
+  background-image: url('./svg/tix.svg');
 }
 .icon-tkn {
   background-image: url('./svg/tkn.svg');
 }
+.icon-tnb {
+  background-image: url('./svg/tnb.svg');
+}
+.icon-tnc {
+  background-image: url('./svg/tnc.svg');
+}
+.icon-tnt {
+  background-image: url('./svg/tnt.svg');
+}
+.icon-trig {
+  background-image: url('./svg/trig.svg');
+}
 .icon-trx {
   background-image: url('./svg/trx.svg');
 }
+.icon-tzc {
+  background-image: url('./svg/tzc.svg');
+}
 .icon-ubq {
   background-image: url('./svg/ubq.svg');
+}
+.icon-unity {
+  background-image: url('./svg/unity.svg');
 }
 .icon-usd {
   background-image: url('./svg/usd.svg');
@@ -411,23 +870,71 @@
 .icon-usdt {
   background-image: url('./svg/usdt.svg');
 }
+.icon-utk {
+  background-image: url('./svg/utk.svg');
+}
 .icon-ven {
   background-image: url('./svg/ven.svg');
 }
 .icon-veri {
   background-image: url('./svg/veri.svg');
 }
+.icon-via {
+  background-image: url('./svg/via.svg');
+}
+.icon-vib {
+  background-image: url('./svg/vib.svg');
+}
+.icon-vibe {
+  background-image: url('./svg/vibe.svg');
+}
+.icon-vivo {
+  background-image: url('./svg/vivo.svg');
+}
+.icon-vrc {
+  background-image: url('./svg/vrc.svg');
+}
 .icon-vtc {
   background-image: url('./svg/vtc.svg');
+}
+.icon-wabi {
+  background-image: url('./svg/wabi.svg');
+}
+.icon-wan {
+  background-image: url('./svg/wan.svg');
 }
 .icon-waves {
   background-image: url('./svg/waves.svg');
 }
+.icon-wax {
+  background-image: url('./svg/wax.svg');
+}
+.icon-wgr {
+  background-image: url('./svg/wgr.svg');
+}
+.icon-wings {
+  background-image: url('./svg/wings.svg');
+}
+.icon-wpr {
+  background-image: url('./svg/wpr.svg');
+}
 .icon-wtc {
   background-image: url('./svg/wtc.svg');
 }
+.icon-xas {
+  background-image: url('./svg/xas.svg');
+}
+.icon-xbc {
+  background-image: url('./svg/xbc.svg');
+}
+.icon-xby {
+  background-image: url('./svg/xby.svg');
+}
 .icon-xcp {
   background-image: url('./svg/xcp.svg');
+}
+.icon-xdn {
+  background-image: url('./svg/xdn.svg');
 }
 .icon-xem {
   background-image: url('./svg/xem.svg');
@@ -435,8 +942,23 @@
 .icon-xlm {
   background-image: url('./svg/xlm.svg');
 }
+.icon-xmg {
+  background-image: url('./svg/xmg.svg');
+}
 .icon-xmr {
   background-image: url('./svg/xmr.svg');
+}
+.icon-xmy {
+  background-image: url('./svg/xmy.svg');
+}
+.icon-xp {
+  background-image: url('./svg/xp.svg');
+}
+.icon-xpa {
+  background-image: url('./svg/xpa.svg');
+}
+.icon-xpm {
+  background-image: url('./svg/xpm.svg');
 }
 .icon-xrb {
   background-image: url('./svg/xrb.svg');
@@ -450,17 +972,32 @@
 .icon-xuc {
   background-image: url('./svg/xuc.svg');
 }
+.icon-xvc {
+  background-image: url('./svg/xvc.svg');
+}
 .icon-xvg {
   background-image: url('./svg/xvg.svg');
 }
 .icon-xzc {
   background-image: url('./svg/xzc.svg');
 }
+.icon-yoyow {
+  background-image: url('./svg/yoyow.svg');
+}
+.icon-zcl {
+  background-image: url('./svg/zcl.svg');
+}
 .icon-zec {
   background-image: url('./svg/zec.svg');
 }
+.icon-zel {
+  background-image: url('./svg/zel.svg');
+}
 .icon-zen {
   background-image: url('./svg/zen.svg');
+}
+.icon-zil {
+  background-image: url('./svg/zil.svg');
 }
 .icon-zrx {
   background-image: url('./svg/zrx.svg');
