@@ -1,6 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="vtc-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="vtc-b" cx="16" cy="15" r="15"/>
+    <filter id="vtc-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="vtc-e" d="M3.46749725,15.533857 L5.29555501,13.4521193 L11.8001785,13.4521193 L15.7962589,18.5502525 L26.2544497,4.06305758 C26.8772556,4.62158011 27.4582663,5.25884674 27.9974815,5.97485747 C28.5366968,6.69086821 29.0043396,7.45558818 29.4004096,8.26901735 L16.5614923,26.0275142 C16.318874,26.2824209 16.0637962,26.4098742 15.7962589,26.4098742 C15.5287215,26.4098742 15.2594727,26.2824209 14.9885124,26.0275142 L6.86853493,15.533857 L3.46749725,15.533857 Z"/>
+    <filter id="vtc-d" width="113.5%" height="115.7%" x="-6.7%" y="-5.6%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
   <g fill="none" fill-rule="evenodd">
-    <circle cx="16" cy="16" r="16" fill="#35633E"/>
-    <path fill="#FFF" d="M8.34553152,17.6166803 L8.34766813,17.6151491 L6.22694453,14.656 L12.192,14.656 L15.2603052,18.7470736 L12.3172318,22.9579325 L8.34553152,17.6166803 Z M6.44145554,16.672 L4.464,16.672 L5.52714812,15.3962223 L6.44145554,16.672 Z M12.9461397,23.8037051 L17.1961975,17.722853 L26.7421178,4.14205916 C27.9342668,5.22268522 28.9627426,6.48059539 29.7859327,7.87417714 L29.776,8.048 L16.6008939,26.7481505 C16.5461389,26.8258674 16.4793642,26.8943748 16.4030754,26.9511024 C16.0059792,27.2463791 15.4447001,27.163838 15.1494234,26.7667418 L12.9461397,23.8037051 Z"/>
+    <use fill="#000" filter="url(#vtc-a)" xlink:href="#vtc-b"/>
+    <use fill="#048657" xlink:href="#vtc-b"/>
+    <use fill="url(#vtc-c)" style="mix-blend-mode:soft-light" xlink:href="#vtc-b"/>
+    <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#vtc-d)" xlink:href="#vtc-e"/>
+      <use fill="#FFF" fill-rule="evenodd" xlink:href="#vtc-e"/>
+    </g>
   </g>
 </svg>
